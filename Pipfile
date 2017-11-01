@@ -12,6 +12,7 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 scipy = "*"
+keras = "*"
 
 [requires]
 python_version = "3.6"
